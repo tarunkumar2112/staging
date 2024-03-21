@@ -1,0 +1,16 @@
+/* src/index.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body{
+    background: rgba(11, 1, 29, 1);
+    color:#fff;
+    font-size: 18px; color:#B5ABCB;
+}
+.hero-bg{background-image: url(./assets/BG.png); background-repeat: no-repeat; background-size: cover; background-position: bottom center;}
+.txt-stroke{   -webkit-text-stroke: 1px #39334A;  text-stroke: 1px #39334A;}
+.bg-top-Left-bg {  background-position: 4% 0%;}
+.bg-top-right-bg { background-position: 90% 0%;}
+.content h5 { max-width: fit-content;}
