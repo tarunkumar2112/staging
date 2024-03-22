@@ -27,7 +27,7 @@ const Home = () => {
       {/* Banner Section */}
       <div className="text-center mb-[50px]">
         <h1 className="md:text-[88px] text-[50px] font-semibold mb-[30px] leading-tight text-white"> A new digital horizon<br />for your business</h1>
-        <p className="text-lg text-Paragraph leading-normal mx-auto max-w-[670px]">We are a forward-thinking design studio with a proven track record of translating ingenious brand strategies into immersive and exceptional creative digital experiences that captivate and engage audiences.</p>
+        <p className="text-lg text-Paragraph leading-normal mx-auto max-w-[670px]">Our dynamic cybersecurity firm, Cybertess Security Inc., deploys experienced researchers to conduct thorough website security assessments. Leveraging cutting-edge tools and methodologies, our team rigorously tests for vulnerabilities on your company website, ensuring a robust defense against potential threats.</p>
       </div>
       
       {/* Buttons Section */}
