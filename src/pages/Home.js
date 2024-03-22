@@ -104,7 +104,7 @@ const Home = () => {
         {/* Left Side */}
         <div className="md:w-[60%] mb-4 md:mb-0">
         <p className="text-lg flex items-center  gap-[5px] text-Primary relative"><img src={star} alt="Image 5" className="  " />Empowering Businesses to Enhance Their Online Exposure</p>
-          <h2 className="md:text-[42px] leading-[1.1] text-[30px] font-semibold mb-2 text-white">Discover our new ideas that evolves with your business</h2>
+          <h2 className="md:text-[42px] leading-[1.1] text-[30px] font-semibold mb-2 text-white">Discover our new ideas that evolves with your business.</h2>
           <div className='md:mb-[60px] mb-[30px] mt-[30px]'>
           <p className="text-lg text-Paragraph mb-5">Unlock the potential and identity of your brand with our innovative and ever-evolving concept. We pride ourselves on staying at the forefront of industry trends and continuously adapting our strategies to ensure your brand's success. Discover the power of our dynamic approach and watch your brand evolve to new heights, leaving a lasting impression on your audience</p>
           </div>
