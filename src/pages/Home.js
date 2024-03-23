@@ -123,7 +123,9 @@ const Home = () => {
           </div>
           
         
+          <a href="https://rce.ninja" target="_blank" rel="noopener noreferrer">
           <button class="bg-[#1E1333] text-sm transition-all hover:bg-[#DBD9DE] text-[rgba(124, 124, 124, 1)] hover:text-[#2E1C63] font-medium py-2 px-4 rounded-[40px] border border-solid border-slate-400/40 hover:border-white mt-[30px]">Schedule a Call</button>
+        </a>
           
         </div>
         
