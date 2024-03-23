@@ -32,7 +32,7 @@ const Header = () => {
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Home</Link>
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Services</Link>
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">About</Link>
-        <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Work</Link>
+        {/*<Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Work</Link> */}
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Pricing</Link>
 
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Contact</Link>
