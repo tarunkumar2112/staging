@@ -110,7 +110,7 @@ const Home = () => {
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Select the plan that suits your requirements and budget</strong>
-          <p className="text-lg text-Paragraph mb-5">Begin your digital journey by meticulously choosing the strategic plan that aligns perfectly with your business objectives. Our diverse range of plans is designed to cater to your specific needs, whether you're aiming to dominate the market, enhance brand recognition, or drive exceptional sales growth.</p>
+          <p className="text-lg text-Paragraph mb-5">Placeholder</p>
           </div>
 
           <div className='md:mb-[50px] mb-[30px]'>
