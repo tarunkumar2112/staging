@@ -25,10 +25,9 @@ const Footer = () => {
       <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">About</Link>
       {/* <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link> */}
       <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Pricing</Link>
-      <Link to="/contact" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</Link>
-      <span className="text-[#7C7C7C] mx-2">|</span> {/* Separator */}
-      <a href="mailto:armansurti@cybertess.com" className="text-[#7C7C7C] hover:text-white text-[14px]">armansurti@cybertess.com</a>
+      <a href="mailto:armansurti@cybertess.com" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</a>
   </nav>
+
 
 
         {/* Social Media Icons */}
