@@ -19,14 +19,17 @@ const Footer = () => {
         <Link to="/" className="flex text-white text-lg font-semibold"><span className='graphic'><img src={Graphics} /></span> Cybertess Security Inc.</Link>
 
         {/* Navigation Links */}
-        <nav className="hidden md:flex space-x-4">
-          <Link to="/" className="text-[#7C7C7C] hover:text-white text-[14px]">Home</Link>
-          <Link to="/services" className="text-[#7C7C7C] hover:text-white text-[14px]">Services</Link>
-          <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">About</Link>
-          {/* <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link> */}
-          <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Pricing</Link>
-          <Link to="/contact" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</Link>
-        </nav>
+  <nav className="hidden md:flex space-x-4">
+      <Link to="/" className="text-[#7C7C7C] hover:text-white text-[14px]">Home</Link>
+      <Link to="/services" className="text-[#7C7C7C] hover:text-white text-[14px]">Services</Link>
+      <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">About</Link>
+      {/* <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link> */}
+      <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Pricing</Link>
+      <Link to="/contact" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</Link>
+      <span className="text-[#7C7C7C] mx-2">|</span> {/* Separator */}
+      <a href="mailto:armansurti@cybertess.com" className="text-[#7C7C7C] hover:text-white text-[14px]">armansurti@cybertess.com</a>
+  </nav>
+
 
         {/* Social Media Icons */}
         <div className="flex space-x-4">
