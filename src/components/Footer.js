@@ -31,11 +31,7 @@ const Footer = () => {
         {/* Social Media Icons */}
         <div className="flex space-x-4">
           {/* Replace the src attribute with the URLs of your social media icons */}
-          <a href="#" target="_blank"><img src={Facebook} alt="Social Media Icon" className="h-6 w-6" /></a>
-          <a href="#" target="_blank"><img src={Insta} alt="Social Media Icon" className="h-6 w-6" /></a>
           <a href="https://x.com/ArmanSameer95" target="_blank"><img src={Twitter} alt="Social Media Icon" className="h-6 w-6" /></a>
-          <a href="#" target="_blank"><img src={Tiktok} alt="Social Media Icon" className="h-6 w-6" /></a>
-          <a href="#" target="_blank"><img src={Youtube} alt="Social Media Icon" className="h-6 w-6" /></a>
 
         </div>
       </div>
