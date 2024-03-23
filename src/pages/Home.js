@@ -172,7 +172,7 @@ const Home = () => {
             <button className="bg-[#1E1333] text-sm transition-all hover:bg-[#DBD9DE] text-[rgba(124, 124, 124, 1)] hover:text-[#2E1C63] font-medium py-2 px-4 rounded-[40px] border border-solid border-slate-400/40 hover:border-white mt-[30px]">Learn More</button>
           </div>
           <div className='max-w-[272px] w-full md:text-center relative'>
-          <h2 className="opacity-70 txt-stroke  text-[#130629] md:text-[120px] text-[60px] font-bold ">DEV</h2>
+          <h2 className="opacity-70 txt-stroke  text-[#130629] md:text-[48px] text-[24px] font-bold ">CO FOUNDER</h2>
           <img src={grids} alt="Image 1" className="h-auto max-w-full absolute top-0 left-0" />
           </div>
           
