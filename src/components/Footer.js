@@ -20,13 +20,14 @@ const Footer = () => {
 
         {/* Navigation Links */}
   <nav className="hidden md:flex space-x-4">
-      <Link to="/" className="text-[#7C7C7C] hover:text-white text-[14px]">Home</Link>
+      <a href="https://cybertess.com" className="text-[#7C7C7C] hover:text-white text-[14px]">Home</a>
       <Link to="/services" className="text-[#7C7C7C] hover:text-white text-[14px]">Services</Link>
       <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">About</Link>
       {/* <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link> */}
       <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Pricing</Link>
       <a href="mailto:armansurti@cybertess.com" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</a>
   </nav>
+
 
 
 
