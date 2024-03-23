@@ -149,7 +149,7 @@ const Home = () => {
         <div className="row mt-8 bg-full-BG bg-center bg-no-repeat bg-cover md:py-[77.5px] md:pl-[60px] md:pr-[80px] py-[30px] px-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px] shadow-lg shadow-black-500 md:shadow-xl">
           <div className="md:flex md:flex-row flex-column items-center  justify-between gap-8">
           <div className='max-w-[272px] w-full md:text-center relative'>
-          <h2 className="opacity-70 txt-stroke  text-[#130629] md:text-[120px] text-[60px] font-bold ">CEO</h2>
+          <h2 className="opacity-70 txt-stroke  text-[#130629] md:text-[80px] text-[40px] font-bold ">FOUNDER</h2>
           <img src={grids} alt="Image 1" className="h-auto max-w-full absolute top-0 left-0" />
           </div>
             
