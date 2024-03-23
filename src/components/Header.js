@@ -44,10 +44,10 @@ const Header = () => {
       {/* Sign-in Button */}
 {/* <button className={`lg:block hidden font-medium  text-white hover:text-gray-300  py-2 px-4 rounded`}>
         Sign In
-      </button>
+      </button> */}
       </div>
       </div>
-    </header> */}
+    </header>
   );
 };
 
