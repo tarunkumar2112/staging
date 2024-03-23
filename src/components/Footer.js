@@ -23,7 +23,7 @@ const Footer = () => {
           <Link to="/" className="text-[#7C7C7C] hover:text-white text-[14px]">Home</Link>
           <Link to="/services" className="text-[#7C7C7C] hover:text-white text-[14px]">Services</Link>
           <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">About</Link>
-          <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link>
+          {/* <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Work</Link> */}
           <Link to="/about" className="text-[#7C7C7C] hover:text-white text-[14px]">Pricing</Link>
           <Link to="/contact" className="text-[#7C7C7C] hover:text-white text-[14px]">Contact</Link>
         </nav>
