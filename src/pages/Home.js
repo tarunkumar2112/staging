@@ -106,7 +106,7 @@ const Home = () => {
         <p className="text-lg flex items-center  gap-[5px] text-Primary relative"><img src={star} alt="Image 5" className="  " />Empowering Businesses to Enhance Their Online Exposure</p>
           <h2 className="md:text-[42px] leading-[1.1] text-[30px] font-semibold mb-2 text-white">Discover our new ideas that evolves with your business.</h2>
           <div className='md:mb-[60px] mb-[30px] mt-[30px]'>
-          <p className="text-lg text-Paragraph mb-5">Unlock the potential and identity of your brand with our innovative and ever-evolving concept. We pride ourselves on staying at the forefront of industry trends and continuously adapting our strategies to ensure your brand's success. Discover the power of our dynamic approach and watch your brand evolve to new heights, leaving a lasting impression on your audience</p>
+          <p className="text-lg text-Paragraph mb-5">Unlock the potential and identify security loopholes before malicious threat actors do. At Cybertess Security Inc., we take pride in remaining at the forefront of industry trends, consistently adapting our strategies to ensure your digital security. Discover the power of our dynamic approach and witness your brand evolve to new heights, leaving a lasting impression on customer and data security.</p>
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Select the plan that suits your requirements and budget</strong>
