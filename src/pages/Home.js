@@ -68,7 +68,7 @@ const Home = () => {
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Second} alt="" className="inline-block" />
         <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">Mobile Application Security</h3>
-        <p className="text-Paragraph text-[16px]">With a focus on iOS and APK application security, Cybertess employs advanced techniques such as code review, penetration testing, and vulnerability assessments to ensure comprehensive protection for your mobile applications.</p>
+        <p className="text-Paragraph text-[16px]">Cybertess employs advanced techniques such as code review, penetration testing, and vulnerability assessments to ensure comprehensive protection for your mobile applications.</p>
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Third}alt="" className="inline-block" />
