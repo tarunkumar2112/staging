@@ -304,7 +304,7 @@ const Home = () => {
     <div className="row  bg-full-BG bg-center bg-no-repeat bg-cover md:py-[100px] py-[50px] md:px-[100px] px-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px] shadow-lg shadow-black-500 md:shadow-xl text-center">
         {/* Heading with border */}
         <div className=" mb-4">
-          <h2 className=" font-medium  text-white px-4 md:text-[56px] text-[40px]">Unlimited design to support your growing business</h2>
+          <h2 className=" font-medium  text-white px-4 md:text-[56px] text-[40px]">Beyond Ordinary: Revealing What Real Hackers Seek</h2>
         </div>
 
         {/* CTA button */}
