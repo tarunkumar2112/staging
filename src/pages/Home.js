@@ -110,7 +110,7 @@ const Home = () => {
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Select the plan that suits your requirements and budget</strong>
-          <p className="text-lg text-Paragraph mb-5">Placeholder</p>
+          <p className="text-lg text-Paragraph mb-5">Empower your threat intelligence capabilities with automated OSINT tools, accelerating the discovery of crucial insights in real-time and issuing immediate alerts to thwart potential threats posed by malicious actors.</p>
           </div>
 
           <div className='md:mb-[50px] mb-[30px]'>
