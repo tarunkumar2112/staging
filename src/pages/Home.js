@@ -77,8 +77,8 @@ const Home = () => {
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Fourth} alt="" className="inline-block" />
-        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">Need to Add something here</h3>
-        <p className="text-Paragraph text-[16px]">AAH COME ON ADD SOMETHING</p>
+        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">3rd Party Issues</h3>
+        <p className="text-Paragraph text-[16px]">Cybertess also provides thorough monitoring and research services to evaluate third-party integrations, ensuring their security and compatibility with your systems.</p>
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Fifth} alt="" className="inline-block" />
