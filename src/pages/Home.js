@@ -224,12 +224,6 @@ const Home = () => {
       <div className="items-center flex">
             <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
             <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
-            <p className="mx-8 text-[14px] text-white font-medium bg-[#1E1333] rounded-[40px] border border-solid border-slate-400/40 py-3 px-5 w-[271px] whitespace-break-spaces">"The best service for startups,designers, and developers"</p>
 
           </div>
       </marquee>
