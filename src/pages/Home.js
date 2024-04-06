@@ -83,7 +83,7 @@ const Home = () => {
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Fifth} alt="" className="inline-block" />
         <h3 className="text-lg text-white  font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">OSINT Automation</h3>
-        <p className="text-Paragraph text-[16px]">Enhance threat intelligence with automated OSINT tools for faster insights</p>
+        <p className="text-Paragraph text-[16px]">Empower your threat intelligence capabilities with automated OSINT tools, accelerating the discovery of crucial insights in real-time and issuing immediate alerts to thwart potential threats posed by malicious actors.</p>
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Six} alt="" className="inline-block" />
@@ -110,7 +110,7 @@ const Home = () => {
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Select the plan that suits your requirements and budget</strong>
-          <p className="text-lg text-Paragraph mb-5">Empower your threat intelligence capabilities with automated OSINT tools, accelerating the discovery of crucial insights in real-time and issuing immediate alerts to thwart potential threats posed by malicious actors.</p>
+          <p className="text-lg text-Paragraph mb-5">Placeholder</p>
           </div>
 
           <div className='md:mb-[50px] mb-[30px]'>
