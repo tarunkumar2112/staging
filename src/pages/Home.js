@@ -72,8 +72,8 @@ const Home = () => {
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Third}alt="" className="inline-block" />
-        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">CVE Based testing</h3>
-        <p className="text-Paragraph text-[16px]">Conducting CVE-based testing on all externally exposed surfaces.</p>
+        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">CVE-Based Analysis and Generic Misconfigurations Assessment</h3>
+        <p className="text-Paragraph text-[16px]">Utilizing CVE-based and generic misconfiguration testing methodologies, we rigorously assess common technologies deployed within your infrastructure. Our comprehensive approach extends to testing all externally exposed surfaces, identifying and mitigating vulnerabilities based on publicly available misconfigurations</p>
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Fourth} alt="" className="inline-block" />
