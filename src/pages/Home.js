@@ -280,7 +280,7 @@ const Home = () => {
 
           <div className="bg-price-bg p-6 rounded-[20px] md:w-[calc(33.333% - 20px)] w-full border border-solid border-border-color">
             <p className='subtitle text-center font-medium mb-[15px] text-white'>Enterprice</p>
-            <h3 className="font-medium mb-2 text-center md:text-[42px] text-[30px] text-white">$29<span className='text-Paragraph text-xl font-medium'>/month</span></h3>
+            <h3 className="font-medium mb-2 text-center md:text-[42px] text-[30px] text-white">$500<span className='text-Paragraph text-xl font-medium'>/month</span></h3>
           <ul>
           <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
