@@ -279,7 +279,7 @@ const Home = () => {
           </div>
 
           <div className="bg-price-bg p-6 rounded-[20px] md:w-[calc(33.333% - 20px)] w-full border border-solid border-border-color">
-            <p className='subtitle text-center font-medium mb-[15px] text-white'>Enterprice</p>
+            <p className='subtitle text-center font-medium mb-[15px] text-white'>Enterprise</p>
             <h3 className="font-medium mb-2 text-center md:text-[42px] text-[30px] text-white">Let's chat<span className='text-Paragraph text-xl font-medium'></span></h3>
           <ul>
           <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
