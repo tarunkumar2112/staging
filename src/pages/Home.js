@@ -156,7 +156,6 @@ const Home = () => {
             <div className="content max-w-[470px] w-full">
             <h5 className="text-[14px] flex items-center bg-[#1E1333] text-white py-[5px] px-[10px] rounded-[40px] border border-solid border-slate-400/40 mb-4"><img src={stars} alt="Image 5" className="  " />Founder</h5>
               <h2 className="text-2xl mb-4 text-white font-medium">Arman Surti</h2>
-              <a href="https://x.com/ArmanSameer95" target="_blank"><img src={Twitter} alt="Social Media Icon" className="h-6 w-6" /></a>
               <p className="text-base text-Paragraph">Exemplifying expertise in web application security through continuous bug bounty and research endeavors since 2018. Recognized as a top 35 researcher on the Bugcrowd platform and honored as the Most Valuable Hacker of 2022, my proficiency is evident in the impactful contributions to cybersecurity. Explore my bounty profiles on platforms such as Bugcrowd and HackerOne to witness a track record of excellence.</p>
               <button className="bg-[#1E1333] text-sm transition-all hover:bg-[#DBD9DE] text-[rgba(124, 124, 124, 1)] hover:text-[#2E1C63] font-medium py-2 px-4 rounded-[40px] border border-solid border-slate-400/40 hover:border-white mt-[30px]">Our Work</button>
             </div>
