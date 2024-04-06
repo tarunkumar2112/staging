@@ -305,7 +305,7 @@ const Home = () => {
         {/* Heading with border */}
         <div className=" mb-4">
           <h3 className=" font-medium  text-white px-4 md:text-[56px] text-[40px]">Beyond Ordinary: Revealing What Real Hackers Seek.</h3>
-          <h6 className=" font-medium  text-white px-4 md:text-[56px] text-[40px]">By Hackers, Against Hackers.</h6>
+          <h6 className=" font-medium  text-white px-4 md:text-[36px] text-[28px]">By Hackers, Against Hackers.</h6>
         </div>
 
         {/* CTA button */}
