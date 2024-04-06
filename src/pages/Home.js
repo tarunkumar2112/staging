@@ -88,7 +88,7 @@ const Home = () => {
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Six} alt="" className="inline-block" />
         <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">Continued Automated threat Intelligence</h3>
-        <p className="text-Paragraph text-[16px]">Seamlessly Adapt to Emerging Threats with Continuous Automated Intelligence</p>
+        <p className="text-Paragraph text-[16px]">Continued Automated Threat Intelligence ensures proactive adaptation to evolving threats by integrating continuous automated processes for real-time threat detection and mitigation.</p>
       </div>
   </div>
         </div>
