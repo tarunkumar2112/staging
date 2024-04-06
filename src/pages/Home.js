@@ -55,7 +55,7 @@ const Home = () => {
             </div>
           <p className="text-lg flex items-center justify-center gap-[5px] text-Primary relative"><img src={star} alt="Image 5" className="  " />
             Outstanding Digital Security, and Experiences</p>
-            <h2 className=" font-bold mb-2 md:text-[56px] text-[40px] text-white relative">We craft brand experiences</h2>
+            <h2 className=" font-bold mb-2 md:text-[56px] text-[40px] text-white relative">We craft secure brand experiences</h2>
             
           </div>
           {/* Grid Layout */}
