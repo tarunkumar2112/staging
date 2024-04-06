@@ -62,8 +62,8 @@ const Home = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={FIrst} alt="" className="inline-block" />
-        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">Cybertess offers expert assistance in managing your externally exposed services through continuous monitoring of your digital infrastructure.</h3>
-        <p className="text-Paragraph text-[16px]">Attack Surface Management</p>
+        <h3 className="text-lg text-white font-semibold mt-6 mb-2 min-h-[56px] flex items-center justify-center">Attack Surface Management</h3>
+        <p className="text-Paragraph text-[16px]">Cybertess offers expert assistance in managing your externally exposed services through continuous monitoring of your digital infrastructure.</p>
       </div>
       <div  className="bg-card-bg text-center bg-cover md:px-[37px] px-[30px] py-[30px] border border-solid border-[rgba(57,51,74,0.5)] rounded-[20px]">
         <img src={Second} alt="" className="inline-block" />
