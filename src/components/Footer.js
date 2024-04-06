@@ -43,6 +43,8 @@ const Footer = () => {
       <div class="bg-HR-bg h-px w-full  bg-center bg-no-repeat"></div>
       <div className="text-center text-gray-400 md:py-[50px] py-[30px] text-[14px] text-Paragraph">
         &copy; 2024 Cybertess Security Inc. All rights reserved.
+      <div className="text-center text-gray-400 md:py-[30px] py-[20px] text-[14px] text-Paragraph">
+        New York Based Cyber Security Company.
       </div>
       </div>
     </footer>
