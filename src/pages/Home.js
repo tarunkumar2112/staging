@@ -235,7 +235,8 @@ const Home = () => {
         <div className='max-w-[1200px] mx-auto px-[15px] relative'>
           <img src={shapeLeft} alt="image" className='absolute right-[-30px] top-[50px]'/>
     <div className="max-w-[725px] w-full py-8 mb-8 ">
-        <p className="text-lg flex items-center  gap-[5px] text-Primary relative"> <img src={star} alt="star-img"/>Email us at [business@cybertess.io](mailto:business@cybertess.io) for a free trial.</p>
+        <p className="text-lg flex items-center  gap-[5px] text-Primary relative"> <img src={star} alt="star-img"/><a href="mailto:business@cybertess.io">Email us at business@cybertess.io for a free trial.</a></p>
+      
         <h2 className=" font-bold mb-2 md:text-[42px] text-[30px] text-white ">Whether you’re part of an agency or a larger team we have a plan for you</h2>
 </div>
         <div className="flex md:flex-row flex-col gap-[30px] ">
