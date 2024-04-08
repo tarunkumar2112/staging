@@ -110,7 +110,7 @@ const Home = () => {
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Select the plan that suits your requirements and budget</strong>
-          <p className="text-lg text-Paragraph mb-5">Placeholder</p>
+          <p className="text-lg text-Paragraph mb-5">Regardless of whether you're part of an agency or a larger team, we have a plan tailored to your organization's size. Let's collaborate to safeguard your digital future.</p>
           </div>
 
           <div className='md:mb-[50px] mb-[30px]'>
