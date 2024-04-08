@@ -189,7 +189,7 @@ const Home = () => {
           <div className="content max-w-[470px] w-full">
             <h5 className="text-[14px] flex items-center bg-[#1E1333] text-white py-[5px] px-[10px] rounded-[40px] border border-solid border-slate-400/40 mb-4"><img src={stars} alt="Image 5" className="  " />Crafting Digital Experiences</h5>
             <h2 className="text-2xl mb-4 text-white font-medium">We refuse to be redundant</h2>
-            <p className="text-base text-Paragraph">We integrate collaborate, and challenge. We are digital natives embracing the creative freedom to produce solutions that connect, communicate, and inspire. We strive to stay at the forefront of the ever-evolving digital landscape, enabling us to deliver impactful marketing solutions that not only meet but exceed our clients' expectations.</p>
+            <p className="text-base text-Paragraph">At Cybertess, we collaborate, innovate, and adapt. With our expertise in digital security, we create solutions that strengthen, communicate, and empower. By staying updated on the latest cybersecurity trends, we deliver effective solutions that exceed our clients' expectations.</p>
             <button className="bg-[#1E1333] text-sm transition-all hover:bg-[#DBD9DE] text-[rgba(124, 124, 124, 1)] hover:text-[#2E1C63] font-medium py-2 px-4 rounded-[40px] border border-solid border-slate-400/40 hover:border-white mt-[30px]">Get Started</button>
           </div>
         </div>
