@@ -273,6 +273,9 @@ const Home = () => {
             Attack Surface Management</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
+            Mobile Application Security</li>
+            <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
+            <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             3rd Party Risk Management</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
