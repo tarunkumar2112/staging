@@ -119,7 +119,7 @@ const Home = () => {
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>We’ll refine the designs until you’re fully satisfied</strong>
-          <p className="text-lg text-Paragraph mb-4">We pride ourselves on transparency and teamwork. After implementing your personalized digital strategy, we enter a continuous review and refinement phase. Our dedicated team closely monitors the performance metrics, scrutinizes data, and generates weekly reports.</p>
+          <p className="text-lg text-Paragraph mb-4">We're dedicated to perfecting the designs until they meet your utmost satisfaction. At Cybertess, our paramount objective is to address the vulnerabilities that concern you most. We not only assist in eliminating these risks entirely but also maintain vigilant monitoring to prevent their recurrence in the future.</p>
           </div>
           
         
