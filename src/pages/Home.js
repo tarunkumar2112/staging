@@ -292,12 +292,16 @@ const Home = () => {
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             Attack Surface Management</li>
+            
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             3rd Party Risk Management</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             Pentest</li>
+            <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
+            <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
+            Mobile Application Security</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             Real-time collaboration with your team to help patch issues</li>
