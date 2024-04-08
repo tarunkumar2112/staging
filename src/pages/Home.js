@@ -251,7 +251,7 @@ const Home = () => {
             </li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
-            Collaborate in real-time</li>
+            Attack Surface Management</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
             One year of updates</li>
