@@ -36,15 +36,11 @@ const Header = () => {
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Pricing</Link>
 
         <Link to="/" className="text-slate-300 hover:text-white font-medium py-3 px-2">Contact</Link>
-        <button className={`${isMenuOpen ? 'block' : 'hidden'} lg:block font-medium  text-white hover:text-gray-300  py-2 px-4 rounded lg:mb-0 mb-[30px]`}>
-        Sign In
-      </button>
+      
       </nav>
 
       {/* Sign-in Button */}
-     <button className={`lg:block hidden font-medium  text-white hover:text-gray-300  py-2 px-4 rounded`}>
-        Sign In
-      </button>
+   
       </div>
       </div>
     </header>
