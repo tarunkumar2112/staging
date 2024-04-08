@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
+import Blog from './pages/Blog';
 import './index.css';
 
 const App = () => {
@@ -21,6 +22,8 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
+            <Route path="/research/blog" element={<Blog />} />
+
             <Route path="/contact" element={<Contact />} />
           </Routes>
 
