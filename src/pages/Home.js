@@ -115,7 +115,7 @@ const Home = () => {
 
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>Share your vision, and we'll work tirelessly to bring it to life</strong>
-          <p className="text-lg text-Paragraph mb-5">Our streamlined process makes submitting your request a breeze. Share crucial details about your business goals, and any unique preferences you have in mind. Our seasoned digital marketing professionals will swiftly channel your vision into an actionable strategy that leverages cutting-edge digital tools and trends.</p>
+          <p className="text-lg text-Paragraph mb-5">Entrust us with your vision, and we'll commit our expertise and resources to transform it into reality. Leveraging our extensive knowledge and proven tools, we continuously automate real-life threats, promptly notifying you of any potential risks that could significantly impact your business.</p>
           </div>
           <div className='md:mb-[50px] mb-[30px]'>
           <strong className='text-white mb-[15px] block'>We’ll refine the designs until you’re fully satisfied</strong>
