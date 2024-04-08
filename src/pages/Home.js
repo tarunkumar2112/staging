@@ -247,7 +247,7 @@ const Home = () => {
           <ul>
           <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
-            Design, prototype and illustrate
+            Weekly scans
             </li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
