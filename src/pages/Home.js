@@ -266,14 +266,17 @@ const Home = () => {
           <ul>
           <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
-            Design, prototype and illustrate
+            Every 24h scans
             </li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
-            Collaborate in real-time</li>
+            Attack Surface Management</li>
             <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
             <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
-            One year of updates</li>
+            3rd Party Risk Management</li>
+            <li class="flex items-start gap-[10px;] font-[16px] py-[5px]">
+            <img className='mt-[2px]' src={checkmark} alt="checkmark"/>
+            Pentest</li
           </ul>
             <button className="bg-[#1E1333] text-sm transition-all hover:bg-[#DBD9DE] text-[rgba(124, 124, 124, 1)] hover:text-[#2E1C63] font-medium py-2 px-4 rounded-[40px] border border-solid border-slate-400/40 hover:border-white mt-[30px]">Purchase Now</button>
           </div>
